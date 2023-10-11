@@ -18,3 +18,7 @@ h1 {
     text-shadow: 2px 2px 0px rgb(3, 3, 131);
     padding: 10px;
 }
+h2 {
+    color: white;
+    padding: 10px;
+}
